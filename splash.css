@@ -1,0 +1,70 @@
+/**
+ * Darwin Week 2010 Splash CSS
+ * Adam Shannon
+ * 2010-12-05
+ */
+body {
+	background-color: #FFFFCC;
+	font-family: "Calibri", Verdana, Helvetica;
+}
+
+#container {
+	/* border: 1px solid #000000; */
+	display: block;
+	padding-bottom: 50px;
+	margin-left: 15%;
+	width: 70%;
+}
+
+	a, a:visited {
+		color: #6E2896;
+	}
+	
+	.bold {
+		font-weight: bold;
+	}
+	
+	.heading {
+		font-size: 1.6em;
+	}
+	
+	.centered {
+		text-align: center;
+		width: 100%;
+	}
+	
+	.right {
+		float: right;
+	}
+	
+	img#header {
+		margin-left: 25%;
+	}
+	
+	p.text {
+		font-size: 1.3em;
+		margin-left: 0%;
+		text-indent: 20px;
+		width: 98%;
+	}
+	
+	p.push_down {
+		padding-left: 15%;
+		padding-top: 15px;
+		text-indent: 0px;
+	}
+	
+	ul {
+		list-style-type: none;
+	}
+		
+		ul li {
+			margin-bottom: 10px;
+			margin-left: -40px;
+		}
+		
+	.footer_link {
+		font-size: 2em;
+		padding-top: 50px;
+		text-align: center;
+	}
